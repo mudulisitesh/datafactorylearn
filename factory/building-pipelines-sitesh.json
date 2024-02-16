@@ -1,0 +1,9 @@
+{
+	"name": "building-pipelines-sitesh",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ccedeadc-645d-4eed-b57a-ecd78775b707",
+		"tenantId": "eb51530d-ba4a-40e2-9559-4498f1a6c06c"
+	}
+}
