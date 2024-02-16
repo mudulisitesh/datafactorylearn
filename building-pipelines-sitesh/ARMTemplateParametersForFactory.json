@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "building-pipelines-sitesh"
+		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"RestService1_password": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://storagedumpsitesh.dfs.core.windows.net/"
+		},
+		"RestService1_properties_typeProperties_url": {
+			"value": "https://api.weatherapi.com/v1/current.json?key=2fd1eeeff67d42f1a1955200241602&q=Paris"
+		},
+		"RestService1_properties_typeProperties_userName": {
+			"value": "siteshmuduliudemy@gmail.com"
+		}
+	}
+}
